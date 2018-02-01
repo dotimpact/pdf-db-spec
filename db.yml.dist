@@ -1,0 +1,9 @@
+db:
+  name: db_name
+  host: localhost
+  port: 3333
+  user: db_user
+
+dump_table:
+  dump_table_1: "ダンプしたいテーブル１"
+  dump_table_2: "ダンプしたいテーブル2"
